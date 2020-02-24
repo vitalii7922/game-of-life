@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="Game_of_Life-task_main" target="11" />
       <module name="Game_of_Life-task_test" target="11" />
+      <module name="Problems-The_smallest_value_main" target="11" />
+      <module name="Problems-The_smallest_value_test" target="11" />
       <module name="util_main" target="11" />
       <module name="util_test" target="11" />
     </bytecodeTargetLevel>

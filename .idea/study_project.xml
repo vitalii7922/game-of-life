@@ -947,6 +947,53 @@
                   </list>
                 </option>
               </FrameworkLesson>
+              <Lesson>
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="2" />
+                <option name="name" value="Problems" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <CodeTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;The smallest value&lt;/b&gt; &lt;a class=&quot;right&quot; href=&quot;https://hyperskill.org/learn/step/3479&quot;&gt;Open on Hyperskill&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;html&gt;&#10; &lt;head&gt;&lt;/head&gt;&#10; &lt;body&gt;&#10;  &lt;p&gt;A user inputs a long number &lt;em&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/em&gt;. You need to find out what is the smallest &lt;code&gt;long&lt;/code&gt;&lt;strong&gt;&lt;em&gt;&amp;nbsp;n&lt;/em&gt;&lt;/strong&gt;, so&amp;nbsp;that &lt;strong&gt;&lt;em&gt;n&lt;/em&gt;&lt;/strong&gt;! &amp;gt;= &lt;strong&gt;&lt;em&gt;M&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt; &#10;  &lt;p&gt;Use the &lt;code&gt;BigInteger&lt;/code&gt; class to solve the problem.&amp;nbsp;Otherwise, your solution won't pass all the tests.&lt;/p&gt; &#10;  &lt;p&gt;Do not forget to import all the needed classes.&lt;/p&gt; &#10;  &lt;p&gt;Just in case: &lt;a href=&quot;https://en.wikipedia.org/wiki/Factorial&quot; rel=&quot;nofollow noopener noreferrer&quot; title=&quot;Link: https://en.wikipedia.org/wiki/Factorial&quot;&gt;wiki on factorials&lt;/a&gt;.&lt;/p&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;3628799&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;10&lt;br&gt;&lt;br&gt;&lt;b&gt;Sample Input:&lt;/b&gt;&lt;br&gt;39916800&lt;br&gt;&lt;b&gt;Sample Output:&lt;/b&gt;&lt;br&gt;11&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Memory limit: 256 Mb&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;gray&quot;&gt;Time limit: 5s&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;a href=&quot;https://hyperskill.org/learn/step/3508&quot;&gt;Show topic summary&lt;/a&gt;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/learn/step/3479" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="3479" />
+                      <option name="index" value="1" />
+                      <option name="name" value="The smallest value" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/Main.java" />
+                                <option name="text" value="class Main {&#10;    public static void main(String[] args) {&#10;        // put your code here&#10;    }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                    </CodeTask>
+                  </list>
+                </option>
+              </Lesson>
             </list>
           </option>
         </HyperskillCourse>
